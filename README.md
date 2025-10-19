@@ -73,4 +73,4 @@ Ethical Considerations: The RAG approach is used to mitigate the risk of model "
 Author
 Name: Suriya
 
-Contact: suriyasparks007@gmail.com
+Contact: su.rajavel@ufl.edu
