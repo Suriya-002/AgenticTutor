@@ -1,0 +1,4 @@
+﻿langgraph
+langchain-openai
+langchain-aws
+boto3
